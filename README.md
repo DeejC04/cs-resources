@@ -4,7 +4,10 @@ This document should serve as a simple, easy to read starting point for learning
 
 ## Courses
 
+---
+
 ### Introductory CS
+#### *Excluding language-specific teaching (syntax, proprietary features), each of these courses should be nearly equivalent in terms of content taught. Programming logic remains the same, regardless of language, so you should not have too much trouble if a following course is taught in a different language. Though, it may be ideal to stick with the same one for a bit for the sake of consistency.*
 
 - **Harvard CS50X** - Introduction to Computer Science
 - **U.C. Berkeley CS61A** - The Structure and Interpretation of Computer Programs
