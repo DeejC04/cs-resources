@@ -1,1 +1,15 @@
-# cs-resources
+# Computer Science/Programming/Etc Learning Resources
+
+This document should serve as a simple, easy to read starting point for learning computer science and related subjects. Note that this list is not comprehensive, and may be missing some things. Also note that sufficient research and diligence will be required alongside most, if not all of the resources listed.
+
+## Courses
+
+### Introductory CS
+
+- Harvard CS50X
+- U.C. Berkeley CS61A
+- Brown CS0150
+- Stanford CS106A or CS106B or CS106X
+Each of these three are considered introductory CS courses. There are slight differences between the three as outlined on Stanford's website. "CS106B assumes you have programming experience at the level of CS106A" and "CS 106B and X are somewhat similar, though X is an accelerated version of the course. 106X covers the same material as 106B, but at a much faster pace and at a deeper level". Thus, if you are completely new, I recommend going with CS106A then proceeding into CS106B/CS106X depending on how comfortable you are with the content.
+
+## Books
